@@ -1,0 +1,6 @@
+/.DS_Store
+/.docker
+/.env
+/docker-compose.yml
+/images
+/tests
